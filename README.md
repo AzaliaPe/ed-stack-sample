@@ -1,1 +1,1 @@
-# Aplicación de Stack
+# Aplicación para entender como funcionan las Pilas
